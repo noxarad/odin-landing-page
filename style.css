@@ -111,3 +111,24 @@ a {
     text-align: center;
     color: #3E3E3E;
 }
+
+.quote-block {
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    padding: 100px 15% 70px;
+}
+
+.quote {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 300;
+    margin: 0px;
+}
+
+.author {
+    font-weight: bold;
+    font-size: 18px;
+}
